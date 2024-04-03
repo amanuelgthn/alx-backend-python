@@ -2,11 +2,11 @@
 """Duck typing - first element of a sequence"""
 
 
-from types import NoneType
 from typing import Any, Sequence, Union
 
 
-def safe_first_element(lst: Sequence[Any]) -> Union[Any, NoneType]:
+def safe_first_element(lst: Sequence[Any]) -> Union[Any, None]:
+    """Code with the correct duck-typed annotations"""
     if lst:
         return lst[0]
     else:
