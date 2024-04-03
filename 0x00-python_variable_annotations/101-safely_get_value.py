@@ -2,8 +2,6 @@
 """More involved type annotaions"""
 
 
-from re import T
-from types import NoneType
 from typing import Any, Mapping, Union, TypeVar
 
 
