@@ -3,8 +3,7 @@
 ## Back-end
 Resources
 Read or watch:
-
-Link Text]([PEP 530 – Asynchronous Comprehensions](https://intranet.alxswe.com/rltoken/hlwtED-iLsdORSgly8DsyQ))
+([PEP 530 – Asynchronous Comprehensions](https://intranet.alxswe.com/rltoken/hlwtED-iLsdORSgly8DsyQ))
 What’s New in Python: Asynchronous Comprehensions / Generators
 Type-hints for generators
 Learning Objectives
